@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://bltnwwl.github.io/blog/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Apr 2022 17:23:35 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Apr 2022 17:23:35 +0800</lastBuildDate><atom:link href="https://bltnwwl.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo</title>
-      <link>http://example.org/posts/demo/</link>
+      <link>https://bltnwwl.github.io/blog/posts/demo/</link>
       <pubDate>Thu, 14 Apr 2022 17:23:35 +0800</pubDate>
       
-      <guid>http://example.org/posts/demo/</guid>
+      <guid>https://bltnwwl.github.io/blog/posts/demo/</guid>
       <description>hello world 🔗</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/posts/writting/</link>
+      <link>https://bltnwwl.github.io/blog/posts/writting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/writting/</guid>
+      <guid>https://bltnwwl.github.io/blog/posts/writting/</guid>
       <description>with the rapid development of economy,it is necessity for us to &amp;hellip;.,it is quite natural for us to ponder over the question of
 fires and foremost,there is no doubt that
 Base on big data,a majority of successful society elites admitted that they have spend their 2/3 of &amp;hellip; in doing sth
@@ -32,10 +32,10 @@ last but not least ,no one can deny that &amp;hellip;</description>
     
     <item>
       <title></title>
-      <link>http://example.org/posts/%E5%9B%9B%E7%BA%A7/</link>
+      <link>https://bltnwwl.github.io/blog/posts/%E5%9B%9B%E7%BA%A7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/%E5%9B%9B%E7%BA%A7/</guid>
+      <guid>https://bltnwwl.github.io/blog/posts/%E5%9B%9B%E7%BA%A7/</guid>
       <description>四级做题技巧 🔗听力 🔗 读选项&amp;ndash;勾关键词，预测发音、意思，根据关键词与推测题意 绝对化选项注意可能是错误的 but,however转折后可能跟答案 一句话出现两个选项则两个选项都不选  仔细阅读 🔗 先看题目——推测文章大意——定位出题句——对比选项——找出答案 顺序原则 total&amp;ndash;entire&amp;ndash;whole&amp;ndash;complete&amp;ndash;all出现这些词同义替换基本确定答案  长篇阅读 🔗  读标题
   找并划出选项关键词，5个为一组，一组找完念两遍
   选项与文章信息匹配：2+1（同义替换）原则
